@@ -45,7 +45,7 @@ export default function Home() {
       {/* Header */}
       <header className="text-center my-12">
         <h1 className="text-4xl font-bold bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent mb-2">
-          AI Code Guard
+          MoShield AI
         </h1>
         <p className="text-slate-400">
           افحص كود الـ JavaScript الخاص بك لتأمينه وتنظيفه من الثغرات فوراً
