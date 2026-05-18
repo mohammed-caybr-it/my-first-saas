@@ -156,12 +156,12 @@ export default function Home() {
             <p className="text-slate-300 mb-6 text-sm">نسخ الأكواد المنظفة تلقائياً متاح فقط لمشتركي خطة Pro. فعل اشتراكك الآن لفتح القوة الكاملة لـ MoShield AI.</p>
             
             <div className="bg-slate-950 p-4 rounded-xl mb-6 text-right space-y-2 border border-slate-700 text-sm">
-              <div className="flex justify-between font-mono"><span className="text-teal-400">077XXXXXXXX</span> :زين كاش</div>
-              <div className="flex justify-between font-mono"><span className="text-amber-400">077XXXXXXXX</span> :آسيا حوالة</div>
+              <div className="flex justify-between font-mono"><span className="text-teal-400">07876243661</span> :زين كاش</div>
+              <div className="flex justify-between font-mono"><span className="text-amber-400">07724903313</span> :آسيا حوالة</div>
             </div>
 
             <div className="flex flex-col gap-3">
-              <a href="https://wa.me/96477XXXXXXXX" target="_blank" className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3 rounded-lg transition">تفعيل الاشتراك (واتساب)</a>
+              <a href="https://wa.me/9647724903313" target="_blank" className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3 rounded-lg transition">تفعيل الاشتراك (واتساب)</a>
               <button onClick={() => setShowModal(false)} className="text-slate-500 text-xs hover:text-white underline">إغلاق النافذة</button>
             </div>
           </div>
